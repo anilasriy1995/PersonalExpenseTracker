@@ -1,5 +1,5 @@
 # PersonalExpenseTracker
-This repo is to track expenses of individuals
+PersonalExpenseTracker is to track expenses of individuals
 Usage:
   python tracker.py
 Sample Session:
