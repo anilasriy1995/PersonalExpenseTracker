@@ -1,8 +1,10 @@
 # PersonalExpenseTracker
 
 PersonalExpenseTracker is to track expenses of individuals
+
 Usage:
   python tracker.py
+
 Sample Session:
 ==============================================
         Personal Expense Tracker (CLI)
